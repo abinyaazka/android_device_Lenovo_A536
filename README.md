@@ -1,4 +1,4 @@
-THis is Device tree for Lenovo A536 kernel 3.10.xx
+Lenovo A536
 ==============
 
 Basic   | Spec Sheet
@@ -11,6 +11,8 @@ Battery | 2000 mAh
 Display | 5.0" 854 x 480 px
 Camera  | 5MPx, LED Flash
 
+
+LineageOS build
 
 * Init
 
