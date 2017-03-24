@@ -143,8 +143,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Snap
 
-PRODUCT_PACKAGES += \
-    Gello
+#PRODUCT_PACKAGES += \
+#    Gello
 
 PRODUCT_PACKAGES += \
     YGPS
