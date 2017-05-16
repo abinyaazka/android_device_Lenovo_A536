@@ -383,6 +383,8 @@ on post-fs-data
     chmod 0660 /dev/GAF001AF
     chmod 0660 /dev/GAF002AF
     chmod 0660 /dev/GAF008AF
+    chmod 0660 /dev/AD5820AF
+    chmod 0660 /dev/BH6474AF
     chmod 0660 /dev/CAM_CAL_DRV
     chmod 0660 /dev/EEPROM_M24C08F
 
@@ -398,6 +400,8 @@ on post-fs-data
     chown system camera /dev/GAF001AF
     chown system camera /dev/GAF002AF
     chown system camera /dev/GAF008AF
+    chown system camera /dev/AD5820AF
+    chown system camera /dev/BH6474AF
     chown system camera /dev/CAM_CAL_DRV
     chown system camera /dev/EEPROM_M24C08F
 
