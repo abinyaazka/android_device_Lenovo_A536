@@ -64,6 +64,8 @@
 /dev/GAF001AF      u:object_r:camera_device:s0
 /dev/GAF002AF      u:object_r:camera_device:s0
 /dev/GAF008AF      u:object_r:camera_device:s0
+/dev/AD5820AF      u:object_r:camera_device:s0
+/dev/BH6474AF      u:object_r:camera_device:s0
 /dev/stpbt         u:object_r:hci_attach_dev:s0
 /dev/hwmsensor     u:object_r:sensors_device:s0
 /dev/gps           u:object_r:gps_device:s0
